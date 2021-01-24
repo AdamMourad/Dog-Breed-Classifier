@@ -1,0 +1,6 @@
+dogImages/
+lfw/
+requirements.txt
+.DS_Score
+.ipynb_checkpoints/
+model_transfer.pt
